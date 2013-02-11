@@ -1,0 +1,9 @@
+{
+    "name": "es5-shim",
+    "version": "2.0.5",
+    "description": "Jam package for ES5 shim/shame",
+    "jam": {
+        "main": "lib/es5-shim.min.js",
+        "include": ["lib/es5-shim.min.js", "lib/es5-shim.js", "lib/es5-sham.min.js", "es5-sham.js"]
+    }
+}
